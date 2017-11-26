@@ -1,6 +1,6 @@
 # Postcodes.io [![Build Status](https://travis-ci.org/ideal-postcodes/postcodes.io.png)](https://travis-ci.org/ideal-postcodes/postcodes.io) [![Coverage Status](https://coveralls.io/repos/github/ideal-postcodes/postcodes.io/badge.svg?branch=code_coverage_btn)](https://coveralls.io/github/ideal-postcodes/postcodes.io?branch=code_coverage_btn)
 
-Query for UK postcodes and geolocations over HTTP. Postcodes.io uses the Office for National Statistics Postcode Directory.
+Query for Philippine postcodes and geolocations over HTTP. This is a fork of postcodes.io and will be used specifically to assist Philippine businesses and internet users to locate a postcode in the Philippines
 
 Documentation can be found at [postcodes.io](http://postcodes.io)
 
