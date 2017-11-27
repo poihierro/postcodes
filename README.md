@@ -3,6 +3,7 @@
 Query for Philippine postcodes and geolocations over HTTP. This is a fork of postcodes.io and will be used specifically to assist Philippine businesses and internet users to locate a postcode in the Philippines
 
 Documentation can be found at [postcodes.io](http://postcodes.io)
+PostCode and Area Code information can be found at [zip-codes.philsite.net/] (http://zip-codes.philsite.net/)
 
 ## Requirements
 
