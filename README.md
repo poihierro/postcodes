@@ -13,14 +13,14 @@ Please make sure you have the following available:
 - Postgres (9.5 or greater)
 - PostGIS extension [(Instructions)](http://postgis.net/install)
 
-We also have an end-to-end guide to install Postcodes.io on a fresh virtual machine [in the wiki](https://github.com/ideal-postcodes/postcodes.io/wiki/Installing-Postcodes.io).
+We also have an end-to-end guide to install Postcodes.io on a fresh virtual machine [in the wiki](https://github.com/poihierro/postcodes.io/wiki/Installing-Postcodes.io).
 
 ## Install & Download Data & Run
 
 **Download and install**
 
 ```bash
-$ git clone https://github.com/ideal-postcodes/postcodes.io.git
+$ git clone https://github.com/poihierro/postcodes.io.git
 
 $ cd postcodes.io/ && npm install
 ```
